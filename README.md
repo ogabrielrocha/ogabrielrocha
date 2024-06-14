@@ -1,5 +1,12 @@
 ## Oi! Eu sou o Gabriel Rocha!
 
+### Sobre Mim
+
+<div style="text-align: justify">
+    Sou Engenheiro em Eletrônica, atualmente, trabalho na Aliger, uma empresa de soluções tecnológicas deeptech focada em IA e visão computacional, onde desenvolvo sistemas embarcados de IIoT utilizando STM32 e ESP32, além do desenvolvimento de hardware com auxílio do KiCad.
+</div>
+
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Rocha-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
